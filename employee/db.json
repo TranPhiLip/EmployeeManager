@@ -1,0 +1,36 @@
+{
+  "employee": [
+    {
+      "name": "Nguyen Van A",
+      "email": "nguyenvana@gmail.com",
+      "phone": "98899090",
+      "active": true,
+      "id": 1
+    },
+    {
+      "name": "Nguyen Van B",
+      "email": "nguyenvanb@gmail.com",
+      "phone": "98899090",
+      "active": true,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Nguyen Van C",
+      "email": "nguyenvanc@gmail.com",
+      "phone": "908908767"
+    },
+    {
+      "id": 4,
+      "name": "Nguyen Van D",
+      "email": "nguyenvand@gmail.com",
+      "phone": "908908767"
+    },
+    {
+      "id": 5,
+      "name": "Nguyen Van E",
+      "email": "nguyenvane@gmail.com",
+      "phone": "908908767"
+    }
+  ]
+}
